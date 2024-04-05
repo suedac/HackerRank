@@ -11,7 +11,7 @@ vector<string> split(const string &);
  *
  * The function is expected to return an INTEGER_ARRAY.
  * The function accepts INTEGER_ARRAY a as parameter.
- */
+*/
 
 vector<int> reverseArray(vector<int> a)
 {
